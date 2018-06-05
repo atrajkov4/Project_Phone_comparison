@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>Projekt</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>ajaxom</word>
+            <word>baze</word>
+            <word>htaccessom</word>
+            <word>html</word>
+            <word>Informatike</word>
+            <word>php</word>
+            <word>prijedloga</word>
+            <word>sifru</word>
+            <word>sitea</word>
+            <word>stranica</word>
+            <word>sustavi</word>
+            <word>tablicu</word>
+            <word>Trajkov</word>
+            <word>upvotea</word>
+            <word>uzl</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>

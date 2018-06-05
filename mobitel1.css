@@ -1,0 +1,122 @@
+@media screen and (device-width: 360px) and (device-height: 640px){
+    body{
+        overflow : hidden;
+    }
+    .sadrzaj{
+        font-size:3.8vw;
+    }
+    header{
+        color: white;
+    height:18%;
+    background-color: #c72424;
+    margin-top: -22px;
+    margin-left:-10px;
+    margin-right:-10px;
+    padding:0;
+    text-align: center;
+     }
+     header > h1{
+         font-size:7vw;
+     }
+     header > .yes > a> img {
+    width:6.5vw;
+    
+}
+    header > .yes > img {
+        width:6.5vw;
+        
+    }
+    .yes{   
+      margin-top:5%;
+      margin-right:30%;
+    }
+     
+    .prijava{
+        visibility:hidden;
+    }
+    #brandovi {
+        font-size:3.7vw;
+        width:39%;
+    }
+    #upvote,#downvote {
+        width:30%;
+        font-size:4vw;
+    }
+    .sadrzaj > .banner > img {
+    width:130%;
+    margin-left:-16%;
+}
+#cilj2 > button {
+    width:30%;
+    font-size:3.2vw;
+}
+#forma{
+    margin-top:16%;
+    font-size:4vw;
+    
+}
+#forma>.labele {
+    margin-top:2%;
+    float:left;
+    margin-left:1%;
+    line-height:5.2vw;
+    text-align:left;
+    font-size:4.5vw;
+}
+#forma>.inputi{
+    float:right;
+    margin-right:18%;
+    line-height:4vw;
+    width:15%;
+}
+#forma>.inputi > input {
+    width:100px;
+    font-size:4.2vw;
+    
+}
+#sub,#preuzmi,#slika,#aktiv{
+    margin-top:10%;
+    width:80px;
+    font-size:3.5vw;
+}
+#podnaslov{
+    font-size: 5vw;
+    
+}
+.g-recaptcha{
+    margin-left:-5%;
+}
+.labele2{
+    visibility:hidden;
+    /*font-size:5vw;
+    float:left;
+    margin-left:5%;
+    line-height:5vw;
+    text-align:left;
+    */
+}
+.inputi2{
+    
+    float:right;
+    margin-right:20%;
+    line-height:3vw;
+}
+.inputi2 > input{
+    width:150px;
+    font-size:4.5vw;
+}
+#pe{
+    font-size:4vw;
+    text-align: center;
+    margin-left:-20%;
+   }
+   #forma>input{
+       
+       font-size:5vw;
+   }
+   #kod{
+       margin-top:5%;
+       width:80%;
+   }
+
+}
